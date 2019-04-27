@@ -61,7 +61,7 @@ public class MainActivity extends AppCompatActivity implements OnItemClickListen
         setContentView(R.layout.activity_main);
 
         //设置标题
-        setTitle("MPAndroidChart Example");
+        setTitle("masterMPAndroidChart Example");
 
         // initialize the utilities
         Utils.init(this);
