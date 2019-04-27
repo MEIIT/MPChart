@@ -59,6 +59,7 @@ public class MainActivity extends AppCompatActivity implements OnItemClickListen
                 WindowManager.LayoutParams.FLAG_FULLSCREEN);
         setContentView(R.layout.activity_main);
 
+        //设置标题
         setTitle("MPAndroidChart Example");
 
         // initialize the utilities
